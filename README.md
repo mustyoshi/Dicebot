@@ -1,4 +1,3 @@
-This dicebot is dependant on just one library: Skype4Py
-https://github.com/awahlig/skype4py
+This new dicebot is written for NodeJS and uses the skyweb nodejs package: https://www.npmjs.com/package/skyweb
 
-I place it in the public domain.
+It seems to be broken atm, Microsoft is always trying to poop on people who use their API.
